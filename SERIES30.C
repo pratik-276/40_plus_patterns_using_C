@@ -5,7 +5,7 @@ void main()
 {
  int i,j,n;
  clrscr();
- printf("enter the number of rows \n");
+ printf("enter the number for rows and column \n");
  scanf("%d",&n);
  for(i=1;i<=n;i++)
  {
